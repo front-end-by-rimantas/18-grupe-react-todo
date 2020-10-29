@@ -1,0 +1,7 @@
+.todo-item {
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+    .todo-item > .status:hover {
+        background-color: pink;
+    }
